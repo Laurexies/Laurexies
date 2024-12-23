@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laurexies
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning ML and CS
+- 👀 I’m interested in web development with Django, Next.Js and Tailwind CSS
+- 🌱 I’m currently learning ML, DL and React-Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on WhatsApp +2348130001669
 
